@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250764775779",
+    "project_id": "zorexfoodapp",
+    "storage_bucket": "zorexfoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250764775779:android:3b73620bd92413d16f0356",
+        "android_client_info": {
+          "package_name": "com.example.zorex_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250764775779-gnralpm8gbt7du6ofb18rlntj8sn55ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinl4xjYBOAtI95E94ucwe00R5kQiwK6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250764775779-gnralpm8gbt7du6ofb18rlntj8sn55ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
